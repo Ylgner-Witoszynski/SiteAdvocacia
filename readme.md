@@ -18,7 +18,7 @@ Site institucional moderno e profissional desenvolvido com **React**, **Next.js*
 
 ### 📚 Áreas de Atuação
 
-![Areas](./img/areas.png)
+![Areas](./img/area.png)
 
 ### 🏛️ Sobre o Escritório
 
